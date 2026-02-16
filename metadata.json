@@ -1,0 +1,7 @@
+{
+  "name": "Mondal Finance",
+  "description": "A comprehensive mobile banking and finance application for managing investments, loans, and payments with integrated KYC and bank linking features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
